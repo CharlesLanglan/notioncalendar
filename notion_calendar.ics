@@ -3,4 +3,730 @@ VERSION:2.0
 PRODID:-//notion2cal//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Notion Calendar
+BEGIN:VEVENT
+SUMMARY:HW 3 Discussion Post
+DTSTART;TZID="UTC-04:00":20260920T230000
+DTEND;TZID="UTC-04:00":20260920T230000
+DTSTAMP:20260919T012818Z
+UID:3def6073-19ac-80bf-98ec-d0a70f69d126@notion2cal
+URL:https://app.notion.com/p/HW-3-Discussion-Post-3def607319ac80bf98ecd0a7
+ 0f69d126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 2 - Lab 01 Exercise
+DTSTART;TZID="UTC-04:00":20260920T230000
+DTEND;TZID="UTC-04:00":20260920T230000
+DTSTAMP:20260919T012818Z
+UID:3ddf6073-19ac-802f-989b-ea875e81967d@notion2cal
+URL:https://app.notion.com/p/Week-2-Lab-01-Exercise-3ddf607319ac802f989bea
+ 875e81967d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 2 Lecture Slides
+DTSTART;TZID="UTC-04:00":20260920T230000
+DTEND;TZID="UTC-04:00":20260920T230000
+DTSTAMP:20260919T012818Z
+UID:3ddf6073-19ac-805d-8bbc-db91864cd6eb@notion2cal
+URL:https://app.notion.com/p/Week-2-Lecture-Slides-3ddf607319ac805d8bbcdb9
+ 1864cd6eb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DTS Presentation Upload
+DTSTART;TZID="UTC-04:00":20261004T235900
+DTEND;TZID="UTC-04:00":20261004T235900
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-80b9-a868-f65351115a69@notion2cal
+URL:https://app.notion.com/p/DTS-Presentation-Upload-3dbf607319ac80b9a868f
+ 65351115a69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DTS Presentation
+DTSTART;VALUE=DATE:20261005
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81bc-b145-c1a8f2e80792@notion2cal
+DESCRIPTION:Group Digital Transformation Strategy presentation. Exact pres
+ entation date depends on assigned presentation week\; verify assigned slot
+  with instructor.
+URL:https://app.notion.com/p/DTS-Presentation-3dbf607319ac81bcb145c1a8f2e8
+ 0792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading: Chapter 13 and 14
+DTSTART;VALUE=DATE:20261123
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8177-88e6-d732f7981d02@notion2cal
+DESCRIPTION:Weekly reading preparation from syllabus.
+URL:https://app.notion.com/p/Reading-Chapter-13-and-14-3dbf607319ac817788e
+ 6d732f7981d02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #8: The Digital Transformation Journey of a Bank (Chapte
+ r 12)
+DTSTART;VALUE=DATE:20261123
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8195-8638-cac8f3252596@notion2cal
+DESCRIPTION:Mini-case analysis.
+URL:https://app.notion.com/p/Mini-Case-8-The-Digital-Transformation-Journe
+ y-of-a-Bank-Chapter-12-3dbf607319ac81958638cac8f3252596
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #9: Digital Transformation at Fidelity Investments (Chap
+ ter 13)
+DTSTART;VALUE=DATE:20261130
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81b6-8aae-d756481c77bc@notion2cal
+DESCRIPTION:Mini-case analysis.
+URL:https://app.notion.com/p/Mini-Case-9-Digital-Transformation-at-Fidelit
+ y-Investments-Chapter-13-3dbf607319ac81b68aaed756481c77bc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #8
+DTSTART;VALUE=DATE:20261123
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81ca-9fd3-f82fb4ee191f@notion2cal
+DESCRIPTION:Weekly class discussion.
+URL:https://app.notion.com/p/Discussion-8-3dbf607319ac81ca9fd3f82fb4ee191f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading: Chapter 12
+DTSTART;VALUE=DATE:20261130
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81dc-9bd0-e9ee3c64790d@notion2cal
+DESCRIPTION:Weekly reading preparation from syllabus.
+URL:https://app.notion.com/p/Reading-Chapter-12-3dbf607319ac81dc9bd0e9ee3c
+ 64790d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #7: JANE.ai: Artificial Intelligence-Powered Marketing (
+ Chapter 11)
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81dd-9ff9-e761731959a8@notion2cal
+DESCRIPTION:Mini-case analysis.
+URL:https://app.notion.com/p/Mini-Case-7-JANE-ai-Artificial-Intelligence-P
+ owered-Marketing-Chapter-11-3dbf607319ac81dd9ff9e761731959a8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #9
+DTSTART;VALUE=DATE:20261130
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81df-ab3b-da0794547193@notion2cal
+DESCRIPTION:Weekly class discussion.
+URL:https://app.notion.com/p/Discussion-9-3dbf607319ac81dfab3bda0794547193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #7
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81e9-9edf-e18b3230fdbe@notion2cal
+DESCRIPTION:Weekly class discussion.
+URL:https://app.notion.com/p/Discussion-7-3dbf607319ac81e99edfe18b3230fdbe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading: Chapter 11
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81f0-8891-d4bdc07e74cb@notion2cal
+DESCRIPTION:Weekly reading preparation from syllabus.
+URL:https://app.notion.com/p/Reading-Chapter-11-3dbf607319ac81f08891d4bdc0
+ 7e74cb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #4
+DTSTART;VALUE=DATE:20261019
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8077-89e1-d8d30aa2118b@notion2cal
+URL:https://app.notion.com/p/Discussion-4-3dbf607319ac807789e1d8d30aa2118b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading: Chapter 10
+DTSTART;VALUE=DATE:20261109
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-812b-be5d-e52b1175b105@notion2cal
+DESCRIPTION:Week 10 preparation: Managing Information Systems.
+URL:https://app.notion.com/p/Reading-Chapter-10-3dbf607319ac812bbe5de52b11
+ 75b105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #6: Budgeting at Performance Boards (Chapter 10)
+DTSTART;VALUE=DATE:20261109
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-817f-bd89-dd0952a7c954@notion2cal
+DESCRIPTION:Week 10 mini-case analysis and discussion.
+URL:https://app.notion.com/p/Mini-Case-6-Budgeting-at-Performance-Boards-C
+ hapter-10-3dbf607319ac817fbd89dd0952a7c954
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #5: Digital Innovation at Domino's: Should You Follow Su
+ it? (Chapter 9)
+DTSTART;VALUE=DATE:20261102
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81c2-80fe-daadaa84da00@notion2cal
+DESCRIPTION:Week 9 mini-case analysis and discussion.
+URL:https://app.notion.com/p/Mini-Case-5-Digital-Innovation-at-Domino-s-Sh
+ ould-You-Follow-Suit-Chapter-9-3dbf607319ac81c280fedaadaa84da00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading: Chapter 8 & 9
+DTSTART;VALUE=DATE:20261102
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81ec-9f74-cf6ea5ce95cf@notion2cal
+DESCRIPTION:Week 9 preparation: Digital Value Creation and Digital Value C
+ apture.
+URL:https://app.notion.com/p/Reading-Chapter-8-9-3dbf607319ac81ec9f74cf6ea
+ 5ce95cf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #6
+DTSTART;VALUE=DATE:20261109
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81f0-b4ac-eaa846660229@notion2cal
+DESCRIPTION:Week 10 class participation discussion.
+URL:https://app.notion.com/p/Discussion-6-3dbf607319ac81f0b4aceaa846660229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #5
+DTSTART;VALUE=DATE:20261102
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81fb-9441-d0666420b44e@notion2cal
+DESCRIPTION:Week 9 class participation discussion.
+URL:https://app.notion.com/p/Discussion-5-3dbf607319ac81fb9441d0666420b44e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #1: Patching the Past\, Building the Future at RetailCo 
+ (Chapter 3)
+DTSTART;VALUE=DATE:20260921
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8104-b91d-df432e5fde54@notion2cal
+DESCRIPTION:Week 3 mini-case analysis and discussion.
+URL:https://app.notion.com/p/Mini-Case-1-Patching-the-Past-Building-the-Fu
+ ture-at-RetailCo-Chapter-3-3dbf607319ac8104b91ddf432e5fde54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #4: Consulting for the Al Dente Restaurant Chain (Chapte
+ r 7)
+DTSTART;VALUE=DATE:20261019
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8130-b8b0-ec4f805ca374@notion2cal
+DESCRIPTION:Week 7 mini-case analysis and discussion.
+URL:https://app.notion.com/p/Mini-Case-4-Consulting-for-the-Al-Dente-Resta
+ urant-Chain-Chapter-7-3dbf607319ac8130b8b0ec4f805ca374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #1
+DTSTART;VALUE=DATE:20260921
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-816d-85a5-cbe753ae5c5e@notion2cal
+DESCRIPTION:Week 3 class participation discussion.
+URL:https://app.notion.com/p/Discussion-1-3dbf607319ac816d85a5cbe753ae5c5e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #2
+DTSTART;VALUE=DATE:20260928
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8173-a386-fc2ec954ccbc@notion2cal
+DESCRIPTION:Week 4 class participation discussion.
+URL:https://app.notion.com/p/Discussion-2-3dbf607319ac8173a386fc2ec954ccbc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion #3
+DTSTART;VALUE=DATE:20261005
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-817e-b866-d96b88025519@notion2cal
+DESCRIPTION:Week 5 class participation discussion.
+URL:https://app.notion.com/p/Discussion-3-3dbf607319ac817eb866d96b88025519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #3: Navigating the Digital Transformation at Gruppo Cimb
+ ali (Chapter 5)
+DTSTART;VALUE=DATE:20261005
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81aa-a1e5-ea82f17877f0@notion2cal
+DESCRIPTION:Week 5 mini-case analysis and discussion.
+URL:https://app.notion.com/p/Mini-Case-3-Navigating-the-Digital-Transforma
+ tion-at-Gruppo-Cimbali-Chapter-5-3dbf607319ac81aaa1e5ea82f17877f0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-Case #2: Facebook and the Billion-Dollar Bet (Chapter 4)
+DTSTART;VALUE=DATE:20260928
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81c2-bc62-fd8386010a40@notion2cal
+DESCRIPTION:Week 4 mini-case analysis and discussion.
+URL:https://app.notion.com/p/Mini-Case-2-Facebook-and-the-Billion-Dollar-B
+ et-Chapter-4-3dbf607319ac81c2bc62fd8386010a40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MDS Final Report
+DTSTART;VALUE=DATE:20261206
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8107-9626-db28778ffc3b@notion2cal
+DESCRIPTION:Group final report. Due December 6\, 2026 at 11:59 PM.
+URL:https://app.notion.com/p/MDS-Final-Report-3dbf607319ac81079626db28778f
+ fc3b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MDS Mid-Term Presentation
+DTSTART;VALUE=DATE:20261025
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-810c-a0d8-c4765323f160@notion2cal
+DESCRIPTION:Group presentation. Due October 25\, 2026 at 11:59 PM.
+URL:https://app.notion.com/p/MDS-Mid-Term-Presentation-3dbf607319ac810ca0d
+ 8c4765323f160
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MDS Final Presentation
+DTSTART;VALUE=DATE:20261206
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8134-9364-dcf8745c9a0f@notion2cal
+DESCRIPTION:Group final presentation. Due December 6\, 2026 at 11:59 PM.
+URL:https://app.notion.com/p/MDS-Final-Presentation-3dbf607319ac81349364dc
+ f8745c9a0f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam Two
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-818a-a949-db7eddd0d1e5@notion2cal
+DESCRIPTION:Individual exam.
+URL:https://app.notion.com/p/Exam-Two-3dbf607319ac818aa949db7eddd0d1e5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MDS Mid-Term Report
+DTSTART;VALUE=DATE:20261025
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-8191-8ec3-e9be94f10a5a@notion2cal
+DESCRIPTION:Group assignment. Due October 25\, 2026 at 11:59 PM.
+URL:https://app.notion.com/p/MDS-Mid-Term-Report-3dbf607319ac81918ec3e9be9
+ 4f10a5a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam One
+DTSTART;VALUE=DATE:20261019
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-819d-b00c-eb1bdcf0977d@notion2cal
+DESCRIPTION:Individual exam.
+URL:https://app.notion.com/p/Exam-One-3dbf607319ac819db00ceb1bdcf0977d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MDS Research Report Abstract
+DTSTART;TZID="UTC-04:00":20260920T235900
+DTEND;TZID="UTC-04:00":20260920T235900
+DTSTAMP:20260919T012818Z
+UID:3dbf6073-19ac-81fb-a29e-cfd4210ddaef@notion2cal
+DESCRIPTION:Group assignment. Due September 20\, 2026 at 11:59 PM.
+URL:https://app.notion.com/p/MDS-Research-Report-Abstract-3dbf607319ac81fb
+ a29ecfd4210ddaef
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 13: Multiple Regression (Ch 14)
+DTSTART;VALUE=DATE:20261213
+DTSTAMP:20260919T012818Z
+UID:34b9d8b0-a1f0-4570-be95-8f0e909ae3c0@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 12/14 / Exam 3).
+URL:https://app.notion.com/p/Reading-Week-13-Multiple-Regression-Ch-14-34b
+ 9d8b0a1f04570be958f0e909ae3c0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 12: Simple Regression (Ch 13)
+DTSTART;VALUE=DATE:20261206
+DTSTAMP:20260919T012818Z
+UID:f64d5e0a-6fa2-4968-9df7-42214a3bef7a@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 12/7).
+URL:https://app.notion.com/p/Reading-Week-12-Simple-Regression-Ch-13-f64d5
+ e0a6fa249689df742214a3bef7a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 10: Two Sample Tests (Ch 10)
+DTSTART;VALUE=DATE:20261122
+DTSTAMP:20260919T012818Z
+UID:d6d0c583-534d-48e9-8a7a-ed2fb290b5e3@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule (after Exam 2). Due dat
+ e set as 1 day before next item (next date: 11/23).
+URL:https://app.notion.com/p/Reading-Week-10-Two-Sample-Tests-Ch-10-d6d0c5
+ 83534d48e98a7aed2fb290b5e3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 11: Analysis of Variance (Ch 11)
+DTSTART;VALUE=DATE:20261129
+DTSTAMP:20260919T012818Z
+UID:a96483ff-e859-4a7e-a7e4-970fef6d5614@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 11/30).
+URL:https://app.notion.com/p/Reading-Week-11-Analysis-of-Variance-Ch-11-a9
+ 6483ffe8594a7ea7e4970fef6d5614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 9: Hypothesis Testing (Part 2) (Ch 9)
+DTSTART;VALUE=DATE:20261115
+DTSTAMP:20260919T012818Z
+UID:54dc02b9-c224-415f-a6ca-be050bb0a28e@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 11/16).
+URL:https://app.notion.com/p/Reading-Week-9-Hypothesis-Testing-Part-2-Ch-9
+ -54dc02b9c224415fa6cabe050bb0a28e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 8: Hypothesis Testing (Part 1) (Ch 9)
+DTSTART;VALUE=DATE:20261108
+DTSTAMP:20260919T012818Z
+UID:114fe378-2986-46c3-b578-ebeff7d3a2ad@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 11/9).
+URL:https://app.notion.com/p/Reading-Week-8-Hypothesis-Testing-Part-1-Ch-9
+ -114fe378298646c3b578ebeff7d3a2ad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 7: Confidence Interval Estimation (Ch 8)
+DTSTART;VALUE=DATE:20261101
+DTSTAMP:20260919T012818Z
+UID:36df6e5c-b566-47b6-9820-4180432a6817@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 11/2).
+URL:https://app.notion.com/p/Reading-Week-7-Confidence-Interval-Estimation
+ -Ch-8-36df6e5cb56647b698204180432a6817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 5 (cont.): Normal Distribution (Ch 6)
+DTSTART;VALUE=DATE:20261018
+DTSTAMP:20260919T012818Z
+UID:7f2d3a62-b60c-4f94-9eeb-246e0e7b3408@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule (10/12 Normal Distribut
+ ion cont.). Due date set as 1 day before next item (next date: 10/19).
+URL:https://app.notion.com/p/Reading-Week-5-cont-Normal-Distribution-Ch-6-
+ 7f2d3a62b60c4f949eeb246e0e7b3408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 6: Sampling Distributions (Ch 7)
+DTSTART;VALUE=DATE:20261025
+DTSTAMP:20260919T012818Z
+UID:b88eb68e-f916-4a67-aac4-b47b3def877c@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule (after Exam 1). Due dat
+ e set as 1 day before next item (next date: 10/26).
+URL:https://app.notion.com/p/Reading-Week-6-Sampling-Distributions-Ch-7-b8
+ 8eb68ef9164a67aac4b47b3def877c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 5: Normal Distribution (Ch 6)
+DTSTART;VALUE=DATE:20261011
+DTSTAMP:20260919T012818Z
+UID:4f436425-7f86-4c63-8a14-a3d170c5ebc2@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next item (next date: 10/12).
+URL:https://app.notion.com/p/Reading-Week-5-Normal-Distribution-Ch-6-4f436
+ 4257f864c638a14a3d170c5ebc2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 4: Discrete Probability Distributions (Ch 5)
+DTSTART;VALUE=DATE:20261004
+DTSTAMP:20260919T012818Z
+UID:7e9ff17d-2661-49d3-9a1c-981ff969fae8@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next week’s item (next date: 10/5).
+URL:https://app.notion.com/p/Reading-Week-4-Discrete-Probability-Distribut
+ ions-Ch-5-7e9ff17d266149d39a1c981ff969fae8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 3: Basic Probability (Ch 4)
+DTSTART;VALUE=DATE:20260927
+DTSTAMP:20260919T012818Z
+UID:91230efa-528d-452a-8f2c-fe248c805808@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next week’s item (next date: 9/28).
+URL:https://app.notion.com/p/Reading-Week-3-Basic-Probability-Ch-4-91230ef
+ a528d452a8f2cfe248c805808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading — Week 2: Visualizing Data & Descriptive Measures (Ch 2
+ –3)
+DTSTART;VALUE=DATE:20260920
+DTSTAMP:20260919T012818Z
+UID:679a02df-9a56-4865-afbb-eb39e7ac9c72@notion2cal
+DESCRIPTION:From MS630 syllabus tentative schedule. Due date set as 1 day 
+ before next week’s item (next date: 9/21).
+URL:https://app.notion.com/p/Reading-Week-2-Visualizing-Data-Descriptive-M
+ easures-Ch-2-3-679a02df9a564865afbbeb39e7ac9c72
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam 3
+DTSTART;VALUE=DATE:20261214
+DTSTAMP:20260919T012818Z
+UID:3aa71fde-2c0b-49ce-8568-bd1663f50746@notion2cal
+DESCRIPTION:From MS630 syllabus: Exam 3 scheduled 12/14 (topic/details TBA
+ ).
+URL:https://app.notion.com/p/Exam-3-3aa71fde2c0b49ce8568bd1663f50746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam 2
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20260919T012818Z
+UID:8cf0f513-628f-4d81-9d1a-e7c9c4a04b09@notion2cal
+DESCRIPTION:From MS630 syllabus: Exam 2 on 11/16. Covers material since Ex
+ am 1 through exam date (non-cumulative).
+URL:https://app.notion.com/p/Exam-2-8cf0f513628f4d819d1ae7c9c4a04b09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam 1
+DTSTART;VALUE=DATE:20261019
+DTSTAMP:20260919T012818Z
+UID:d0d8192e-b107-4617-bbaa-8b2f79ea0379@notion2cal
+DESCRIPTION:From MS630 syllabus: Exam 1 on 10/19. Covers material from sta
+ rt of semester through exam date.
+URL:https://app.notion.com/p/Exam-1-d0d8192eb1074617bbaa8b2f79ea0379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Project: Stakeholder Strategy Report
+DTSTART;TZID="UTC-05:00":20261206T235900
+DTEND;TZID="UTC-05:00":20261206T235900
+DTSTAMP:20260919T012818Z
+UID:4b6864c9-bd80-4965-b771-1c01f5d4ee27@notion2cal
+DESCRIPTION:From syllabus: due Dec 6 (Week 12). 40%.
+URL:https://app.notion.com/p/Final-Project-Stakeholder-Strategy-Report-4b6
+ 864c9bd804965b7711c01f5d4ee27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Project: Peer Review Report
+DTSTART;TZID="UTC-05:00":20261125T235900
+DTEND;TZID="UTC-05:00":20261125T235900
+DTSTAMP:20260919T012818Z
+UID:9134bd3e-c4b4-4fc8-b952-a8d374e3a892@notion2cal
+DESCRIPTION:From syllabus: Peer Review Report due Nov 25 (Week 10). 5%.
+URL:https://app.notion.com/p/Final-Project-Peer-Review-Report-9134bd3ec4b4
+ 4fc8b952a8d374e3a892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Project: Stakeholder Analysis and Strategy Memo
+DTSTART;TZID="UTC-05:00":20261115T235900
+DTEND;TZID="UTC-05:00":20261115T235900
+DTSTAMP:20260919T012818Z
+UID:bc1f9f1e-a856-4111-8b13-d603f13c626e@notion2cal
+DESCRIPTION:From syllabus: due Nov 15 (Week 9). 15%.
+URL:https://app.notion.com/p/Final-Project-Stakeholder-Analysis-and-Strate
+ gy-Memo-bc1f9f1ea85641118b13d603f13c626e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foundational Assignment 3: Natural Environment as Stakeholder
+DTSTART;TZID="UTC-04:00":20261025T235900
+DTEND;TZID="UTC-04:00":20261025T235900
+DTSTAMP:20260919T012818Z
+UID:9151976f-075b-48a3-b02f-fbe6dc08436b@notion2cal
+DESCRIPTION:From syllabus: Week 6 assignment (Foundational Assignment 3). 
+ Weekly rhythm: due following Sunday 11:59pm.
+URL:https://app.notion.com/p/Foundational-Assignment-3-Natural-Environment
+ -as-Stakeholder-9151976f075b48a3b02ffbe6dc08436b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foundational Assignment 2: Employees as Stakeholders
+DTSTART;TZID="UTC-04:00":20261018T235900
+DTEND;TZID="UTC-04:00":20261018T235900
+DTSTAMP:20260919T012818Z
+UID:c9e8329a-c77c-4ffe-b6f0-ef6cd3c1737b@notion2cal
+DESCRIPTION:From syllabus: Week 5 assignment (Foundational Assignment 2). 
+ Weekly rhythm: due following Sunday 11:59pm.
+URL:https://app.notion.com/p/Foundational-Assignment-2-Employees-as-Stakeh
+ olders-c9e8329ac77c4ffeb6f0ef6cd3c1737b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foundational Assignment 1: Stakeholder Challenges
+DTSTART;TZID="UTC-04:00":20260927T235900
+DTEND;TZID="UTC-04:00":20260927T235900
+DTSTAMP:20260919T012818Z
+UID:04087b4e-4bda-4e74-b464-93fa3b39fe64@notion2cal
+DESCRIPTION:From syllabus: Week 2 assignment (Foundational Assignment 1). 
+ Weekly rhythm: due following Sunday 11:59pm.
+URL:https://app.notion.com/p/Foundational-Assignment-1-Stakeholder-Challen
+ ges-04087b4e4bda4e74b46493fa3b39fe64
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Critique: Evaluating Voluntary AI Governance
+DTSTART;TZID="UTC-04:00":20261011T235900
+DTEND;TZID="UTC-04:00":20261011T235900
+DTSTAMP:20260919T012818Z
+UID:07735603-5689-4bce-a81d-d8c2270ac03b@notion2cal
+DESCRIPTION:From syllabus: AI Critique due Oct 11 (Week 4). 10%.
+URL:https://app.notion.com/p/AI-Critique-Evaluating-Voluntary-AI-Governanc
+ e-0773560356894bcea81dd8c2270ac03b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PreCourse survey
+DTSTART;TZID="UTC-04:00":20260920T235900
+DTEND;TZID="UTC-04:00":20260920T235900
+DTSTAMP:20260919T012818Z
+UID:d3e07f2a-3ea1-4e68-8488-bb9899c20c26@notion2cal
+DESCRIPTION:From syllabus Week 1 assignment: PreCourse survey link in syll
+ abus.
+URL:https://app.notion.com/p/PreCourse-survey-d3e07f2a3ea14e688488bb9899c2
+ 0c26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Draft Report & Slides
+DTSTART;VALUE=DATE:20261122
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8096-a614-e494ac7a1f6b@notion2cal
+URL:https://app.notion.com/p/Draft-Report-Slides-3d6f607319ac8096a614e494a
+ c7a1f6b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion of Findings
+DTSTART;VALUE=DATE:20261108
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8068-88d6-e116264ed1ce@notion2cal
+DESCRIPTION:Discuss your findings of parts (A) and (B) with your team memb
+ ers\n- Discuss Part (C) of this project (stock recommendation) and reach a
+ \nconsensus with your team members
+URL:https://app.notion.com/p/Discussion-of-Findings-3d6f607319ac806888d6e1
+ 16264ed1ce
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research and Analysis Parts A & B
+DTSTART;VALUE=DATE:20261025
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-807f-afe4-d55ee69adca0@notion2cal
+URL:https://app.notion.com/p/Research-and-Analysis-Parts-A-B-3d6f607319ac8
+ 07fafe4d55ee69adca0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Report
+DTSTART;VALUE=DATE:20261206
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8061-b16f-ed9d3d7e1257@notion2cal
+URL:https://app.notion.com/p/Polish-Report-3d6f607319ac8061b16fed9d3d7e125
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project - Company Name Submission
+DTSTART;VALUE=DATE:20261005
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-803c-a365-e36bf87d89d1@notion2cal
+URL:https://app.notion.com/p/Project-Company-Name-Submission-3d6f607319ac8
+ 03ca365e36bf87d89d1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion Post Modules 15 & 22
+DTSTART;VALUE=DATE:20261218
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-806b-b091-cf2a90f03dad@notion2cal
+URL:https://app.notion.com/p/Discussion-Post-Modules-15-22-3d6f607319ac806
+ bb091cf2a90f03dad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 22
+DTSTART;VALUE=DATE:20261218
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8082-85ab-f9bc1752dc3c@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-22-3d6f607319ac808285abf9bc1752
+ dc3c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion Forms Modules 6-8
+DTSTART;VALUE=DATE:20261123
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-80ec-9374-d874ea9e64d4@notion2cal
+URL:https://app.notion.com/p/Discussion-Forms-Modules-6-8-3d6f607319ac80ec
+ 9374d874ea9e64d4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion Forms Modules 1-5
+DTSTART;VALUE=DATE:20261019
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8043-83c3-cdb12a444101@notion2cal
+URL:https://app.notion.com/p/Discussion-Forms-Modules-1-5-3d6f607319ac8043
+ 83c3cdb12a444101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam 3: Modules 14\, 15\, 22
+DTSTART;VALUE=DATE:20261218
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8006-9246-cf857dad2b67@notion2cal
+URL:https://app.notion.com/p/Exam-3-Modules-14-15-22-3d6f607319ac80069246c
+ f857dad2b67
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Due
+DTSTART;VALUE=DATE:20261207
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-808f-a9ef-f95c401065f6@notion2cal
+URL:https://app.notion.com/p/Project-Due-3d6f607319ac808fa9eff95c401065f6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 15
+DTSTART;VALUE=DATE:20261207
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8052-bb3d-d68c45abbee3@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-15-3d6f607319ac8052bb3dd68c45ab
+ bee3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam 2: Modules 6\, 7\, 8
+DTSTART;VALUE=DATE:20261123
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-80cf-8e5e-eb9f5f95eb1c@notion2cal
+URL:https://app.notion.com/p/Exam-2-Modules-6-7-8-3d6f607319ac80cf8e5eeb9f
+ 5f95eb1c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 8
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-802c-bdfe-c0565bf7d743@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-8-3d6f607319ac802cbdfec0565bf7d
+ 743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 7
+DTSTART;VALUE=DATE:20261109
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8050-b65d-e10277a50223@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-7-3d6f607319ac8050b65de10277a50
+ 223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam 1: Modules 1\, 2\, 4\, 5
+DTSTART;VALUE=DATE:20261019
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8075-9e97-e0cae4c35c0c@notion2cal
+URL:https://app.notion.com/p/Exam-1-Modules-1-2-4-5-3d6f607319ac80759e97e0
+ cae4c35c0c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 6
+DTSTART;VALUE=DATE:20261102
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-8084-88e2-ea2979b8b881@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-6-3d6f607319ac808488e2ea2979b8b
+ 881
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 5
+DTSTART;VALUE=DATE:20261012
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-80e3-b15a-cd766fa74547@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-5-3d6f607319ac80e3b15acd766fa74
+ 547
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 4
+DTSTART;VALUE=DATE:20261005
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-802f-93ad-e31072d363d5@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-4-3d6f607319ac802f93ade31072d36
+ 3d5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 2 & 3
+DTSTART;VALUE=DATE:20260928
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-80b6-8e3c-f67b4872d63f@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-2-3-3d6f607319ac80b68e3cf67b487
+ 2d63f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MBC HW - Module 1
+DTSTART;VALUE=DATE:20260921
+DTSTAMP:20260919T012818Z
+UID:3d6f6073-19ac-801e-946c-fdc5a5ff9afa@notion2cal
+URL:https://app.notion.com/p/MBC-HW-Module-1-3d6f607319ac801e946cfdc5a5ff9
+ afa
+END:VEVENT
 END:VCALENDAR
